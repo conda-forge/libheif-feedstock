@@ -1,0 +1,16 @@
+aom:
+- '3.5'
+channel_sources:
+- conda-forge
+channel_targets:
+- conda-forge main
+cxx_compiler:
+- vs2019
+libavif:
+- 0.11.1
+license_family:
+- lgpl
+target_platform:
+- win-64
+x265:
+- '3.5'
