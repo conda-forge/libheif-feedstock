@@ -1,11 +1,11 @@
-About libheif
-=============
+About libheif-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/libheif-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/strukturag/libheif
 
 Package license: LGPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/libheif-feedstock/blob/main/LICENSE.txt)
 
 Summary: libheif is an HEIF and AVIF file format decoder and encoder
 
@@ -23,7 +23,14 @@ Current build status
 ====================
 
 
-<table>
+<table><tr>
+    <td>Travis</td>
+    <td>
+      <a href="https://app.travis-ci.com/conda-forge/libheif-feedstock">
+        <img alt="linux" src="https://img.shields.io/travis/com/conda-forge/libheif-feedstock/main.svg?label=Linux">
+      </a>
+    </td>
+  </tr>
     
   <tr>
     <td>Azure</td>
@@ -48,6 +55,34 @@ Current build status
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_license_familylgpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_license_familygpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_license_familygpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_license_familylgpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_license_familylgpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_license_familygpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_license_familygpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_license_familylgpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_license_familylgpl" alt="variant">
                 </a>
               </td>
             </tr><tr>
