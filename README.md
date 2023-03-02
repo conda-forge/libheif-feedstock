@@ -51,6 +51,34 @@ Current build status
                 </a>
               </td>
             </tr><tr>
+              <td>linux_aarch64_license_familygpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_license_familygpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_aarch64_license_familylgpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_aarch64_license_familylgpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_license_familygpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_license_familygpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_ppc64le_license_familylgpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_ppc64le_license_familylgpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
               <td>osx_64_license_familygpl</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
