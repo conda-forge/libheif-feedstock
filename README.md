@@ -1,11 +1,11 @@
-About libheif
-=============
+About libheif-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/libheif-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/strukturag/libheif
 
 Package license: LGPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/libheif-feedstock/blob/main/LICENSE.txt)
 
 Summary: libheif is an HEIF and AVIF file format decoder and encoder
 
@@ -62,6 +62,20 @@ Current build status
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_license_familylgpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_license_familygpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_license_familygpl" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64_license_familylgpl</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=18728&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/libheif-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_license_familylgpl" alt="variant">
                 </a>
               </td>
             </tr><tr>
