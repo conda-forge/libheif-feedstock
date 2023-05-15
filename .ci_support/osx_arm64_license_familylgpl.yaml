@@ -10,6 +10,8 @@ cxx_compiler:
 - clangxx
 cxx_compiler_version:
 - '15'
+dav1d:
+- 1.2.0
 libavif:
 - 0.11.1
 license_family:
