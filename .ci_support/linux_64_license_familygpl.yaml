@@ -15,7 +15,7 @@ dav1d:
 docker_image:
 - quay.io/condaforge/linux-anvil-cos7-x86_64
 libavif:
-- 0.11.1
+- 1.0.1
 license_family:
 - gpl
 target_platform:
