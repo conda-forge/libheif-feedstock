@@ -29,6 +29,7 @@ requirements:
   host:
     - libde265
     - libavif
+    - svt-av1
     - dav1d
     - aom
     {% if license_family == 'gpl' %}
