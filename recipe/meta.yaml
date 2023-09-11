@@ -30,6 +30,7 @@ requirements:
     - libde265
     - libavif
     - svt-av1
+    - rav1e
     - dav1d
     - aom
     {% if license_family == 'gpl' %}
