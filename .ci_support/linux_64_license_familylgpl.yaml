@@ -18,6 +18,8 @@ libavif:
 - 1.0.1
 license_family:
 - lgpl
+svt_av1:
+- 1.7.0
 target_platform:
 - linux-64
 x265:

@@ -18,6 +18,8 @@ license_family:
 - gpl
 macos_machine:
 - arm64-apple-darwin20.0.0
+svt_av1:
+- 1.7.0
 target_platform:
 - osx-arm64
 x265:
