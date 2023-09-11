@@ -7,6 +7,8 @@ cmake -G "Ninja" ^
   -DCMAKE_SYSTEM_PREFIX_PATH="%LIBRARY_PREFIX%" ^
   -DCMAKE_BUILD_TYPE="Release" ^
   -DWITH_EXAMPLES=OFF ^
+  -DWITH_SvtEnc=OFF ^
+  -DWITH_RAV1E=OFF ^
   ..
 if errorlevel 1 exit 1
 
