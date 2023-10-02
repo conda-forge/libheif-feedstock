@@ -1,4 +1,4 @@
-{% set build = 2 %}
+{% set build = 3 %}
 {% set name = "libheif" %}
 {% set version = "1.16.2" %}
 
