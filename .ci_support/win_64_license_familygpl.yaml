@@ -1,5 +1,5 @@
 aom:
-- '3.5'
+- '3.6'
 channel_sources:
 - conda-forge
 channel_targets:
