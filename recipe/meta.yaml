@@ -1,5 +1,4 @@
 {% set build = 1 %}
-{% set name = "libheif" %}
 {% set version = "1.17.3" %}
 
 {%- if license_family == 'gpl' %}
@@ -7,7 +6,7 @@
 {%- endif %}
 
 package:
-  name: {{ name|lower }}
+  name: libheif
   version: {{ version }}
 
 source:
