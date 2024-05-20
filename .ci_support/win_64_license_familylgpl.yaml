@@ -1,5 +1,7 @@
 aom:
-- '3.7'
+- '3.9'
+c_stdlib:
+- vs
 channel_sources:
 - conda-forge
 channel_targets:
