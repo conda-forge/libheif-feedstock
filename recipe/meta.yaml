@@ -1,6 +1,6 @@
-{% set build = 2 %}
+{% set build = 0 %}
 {% set name = "libheif" %}
-{% set version = "1.17.6" %}
+{% set version = "1.18.1" %}
 
 {%- if license_family == 'gpl' %}
 {%- set build = build + 100 %}
@@ -12,7 +12,7 @@ package:
 
 source:
   url: https://github.com/strukturag/libheif/releases/download/v{{ version }}/libheif-{{ version }}.tar.gz
-  sha256: 8390baf4913eda0a183e132cec62b875fb2ef507ced5ddddc98dfd2f17780aee
+  sha256: 8702564b0f288707ea72b260b3bf4ba9bf7abfa7dac01353def3a86acd6bbb76
 
 build:
   number: {{ build }}
