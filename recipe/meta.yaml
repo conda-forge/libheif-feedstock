@@ -1,6 +1,8 @@
 {% set build = 0 %}
 {% set name = "libheif" %}
 {% set version = "1.19.5" %}
+# ensure license_family is defined to appease bot
+{% set license_family = license_family or 'notset' %}
 
 {%- if license_family == 'gpl' %}
 {%- set build = build + 100 %}
