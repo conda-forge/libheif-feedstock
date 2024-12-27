@@ -36,9 +36,7 @@ requirements:
     # - rav1e
     - dav1d
     - aom
-    {% if license_family == 'gpl' %}
-    - x265
-    {% endif %}
+    - x265  # [license_family == 'gpl']
 
 test:
   commands:
