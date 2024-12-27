@@ -9,6 +9,7 @@ cmake -G "Ninja" ^
   -DWITH_EXAMPLES=OFF ^
   -DWITH_SvtEnc=OFF ^
   -DWITH_RAV1E=OFF ^
+  -DBUILD_TESTING=OFF ^
   ..
 if errorlevel 1 exit 1
 
