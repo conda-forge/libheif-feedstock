@@ -20,6 +20,8 @@ dav1d:
 - 1.2.1
 libavif:
 - '1'
+libheif:
+- '1.19'
 license_family:
 - gpl
 macos_machine:
