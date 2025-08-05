@@ -13,7 +13,7 @@ channel_targets:
 cxx_compiler:
 - gxx
 cxx_compiler_version:
-- '13'
+- '14'
 dav1d:
 - 1.2.1
 docker_image:
