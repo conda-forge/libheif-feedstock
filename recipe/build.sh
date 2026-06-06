@@ -11,6 +11,7 @@ cmake ${CMAKE_ARGS} -G "Ninja" \
   -DWITH_EXAMPLES=OFF \
   -DWITH_SvtEnc=OFF \
   -DWITH_RAV1E=OFF \
+  -DBUILD_TESTING=OFF \
   ..
 
 ninja
