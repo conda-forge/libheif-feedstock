@@ -21,7 +21,7 @@ dav1d:
 libavif:
 - '1'
 libheif:
-- '1.19'
+- '1.23'
 license_family:
 - lgpl
 macos_machine:
