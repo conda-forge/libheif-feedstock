@@ -3,7 +3,7 @@ schema_version: 1
 context:
   version: "1.23.6"
   # Reset this to 0 for each upstream release; increment it for recipe rebuilds.
-  build_number: 0
+  build_number: 1
 
 package:
   name: libheif
@@ -29,6 +29,7 @@ requirements:
   host:
     - libde265
     - libavif
+    - libwebp
     # - svt-av1
     # - rav1e
     - dav1d-devel
