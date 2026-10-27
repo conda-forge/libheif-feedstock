@@ -1,3 +1,5 @@
+DOCKER_PLATFORM:
+- linux/aarch64
 aom:
 - '3.14'
 c_stdlib:
@@ -15,6 +17,8 @@ cxx_compiler_version:
 docker_image:
 - quay.io/condaforge/linux-anvil-aarch64:alma10
 libavif:
+- '1'
+libwebp:
 - '1'
 license_family:
 - gpl
