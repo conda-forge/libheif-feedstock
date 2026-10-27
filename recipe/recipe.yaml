@@ -3,7 +3,7 @@ schema_version: 1
 context:
   version: "1.23.7"
   # Reset this to 0 for each upstream release; increment it for recipe rebuilds.
-  build_number: 1
+  build_number: 2
 
 package:
   name: libheif
@@ -26,10 +26,11 @@ requirements:
     - ${{ stdlib("c") }}
     - cmake
     - ninja
+    - pkg-config
   host:
     - libde265
     - libavif
-    - libwebp
+    - libwebp-base
     # - svt-av1
     # - rav1e
     - dav1d-devel
