@@ -1,5 +1,5 @@
 aom:
-- '3.14'
+- '3.15'
 c_stdlib:
 - vs
 channel_sources:
@@ -10,7 +10,7 @@ cxx_compiler:
 - vs2022
 libavif:
 - '1'
-libwebp:
+libwebp_base:
 - '1'
 license_family:
 - lgpl
